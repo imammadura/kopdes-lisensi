@@ -1,3 +1,9 @@
 {
-  "lisensi": {}
+  "lisensi": {
+    "TESTHWID123456": {
+      "status": "mati",
+      "habis": "2027-01-01",
+      "dicabut": "23-11-2026 10:00 (TES)"
+    }
+  }
 }
